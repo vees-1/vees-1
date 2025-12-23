@@ -1,4 +1,4 @@
-# heyyyyyy 👋
+# Heyyyyyy 👋
 
 I’m Vineet, a Computer Science student focused on building practical systems using
 Machine Learning and Deep Learning. I use this space to experiment, learn, and
