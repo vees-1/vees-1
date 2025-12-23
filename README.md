@@ -7,7 +7,7 @@ document projects that apply AI techniques to real-world datasets.
 Most of my work revolves around data understanding, model design, and evaluation
 rather than just model training.
 
----
+
 
 ## What I’m working on
 - Machine learning pipelines with structured and unstructured data  
@@ -15,7 +15,7 @@ rather than just model training.
 - Exploratory data analysis and feature engineering  
 - Applying AI concepts to domains like healthcare, aviation, and space science  
 
----
+
 
 ## Tools & Technologies
 - **Languages:** Python, JavaScript  
@@ -23,7 +23,7 @@ rather than just model training.
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Cloud (learning):** AWS fundamentals, model deployment basics  
 
----
+
 
 ## Projects
 You’ll find projects here covering:
@@ -34,7 +34,7 @@ You’ll find projects here covering:
 Each repository includes clear documentation, reproducible workflows, and
 explanations of design choices.
 
----
+
 
 ## How I approach projects
 - Start with understanding the data, not the model  
@@ -42,16 +42,16 @@ explanations of design choices.
 - Prefer simple, interpretable baselines before complex models  
 - Evaluate models using appropriate metrics, not just accuracy  
 
----
+
 
 ## Currently learning
 - Advanced deep learning concepts  
 - Cloud-aware ML workflows  
 - Writing cleaner, more maintainable ML code  
 
----
+
 
 ## Contact
 - Email: vineetvchanna@gmail.com  
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/vineet-channa/
 
