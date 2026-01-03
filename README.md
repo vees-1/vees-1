@@ -19,39 +19,33 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 ## 🛠 Tech Stack
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+</p>
 
 ### Data Analysis & EDA
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=E6E6E6)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+</p>
 
 ### Machine Learning
-![scikit--learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-111827?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-111827?style=for-the-badge)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-111827?style=for-the-badge)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-111827?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+</p>
 
 ### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge&logo=keras&logoColor=D00000)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-111827?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-111827?style=for-the-badge)
-![RNNs](https://img.shields.io/badge/RNNs-111827?style=for-the-badge)
-![LSTMs](https://img.shields.io/badge/LSTMs-111827?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48"/>
+</p>
 
-### Cloud (Foundational)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-111827?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-111827?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-111827?style=for-the-badge)
-![VPC](https://img.shields.io/badge/VPC-111827?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-111827?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-111827?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-111827?style=for-the-badge)
+### Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/>
+</p>
 
 
 ---
