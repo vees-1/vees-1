@@ -1,7 +1,6 @@
 # Heyyyyyy 👋
 
-
-# Vineet Channa
+--
 
 Computer Science student working on machine learning and deep learning systems, with a focus on
 data understanding, feature engineering, and principled model evaluation.
