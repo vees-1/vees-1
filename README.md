@@ -9,7 +9,7 @@ methodological clarity, reproducibility, and explicit reasoning, rather than ad-
 
 
 
-## Research-Engineering Interests
+## Research — Engineering Interests
 - Design and evaluation of end-to-end machine learning pipelines
 - Deep learning methods for classification and detection problems
 - Exploratory data analysis and feature construction for real-world datasets
