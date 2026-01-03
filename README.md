@@ -83,7 +83,7 @@ methodological clarity, reproducibility, and explicit reasoning over ad-hoc opti
 ---
 
 ## Experience
-### Machine Learning Intern — Edreamz Technologies  
+#### Machine Learning Intern — Edreamz Technologies  
 Focused on applied ML problems in an e-commerce context, including customer analytics,
 forecasting, and translating business requirements into ML formulations.
 
