@@ -98,5 +98,14 @@ Repositories emphasize:
 ---
 
 ## Contact
-Email: vineetvchanna@gmail.com  
-LinkedIn: https://www.linkedin.com/in/vineet-channa/
+
+<p align="left">
+  <a href="mailto:vineetvchanna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-555555?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vineet-channa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-555555?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
