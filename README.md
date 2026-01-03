@@ -25,7 +25,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
 </p>
 <p>
-  <strong>Python</strong> &nbsp;|&nbsp; <strong>JavaScript</strong>
+  <sub>Python</sub> &nbsp;|&nbsp; <sub>JavaScript</sub>
 </p>
 
 
