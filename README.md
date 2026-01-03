@@ -102,7 +102,7 @@ Repositories emphasize:
 <p align="left">
   <a href="mailto:vineetvchanna@gmail.com" title="Email">
     <img
-      src="https://cdn.simpleicons.org/gmail/D14836"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"
       width="32"
       height="32"
     />
@@ -110,7 +110,7 @@ Repositories emphasize:
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vineet-channa/" title="LinkedIn">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       width="32"
       height="32"
     />
