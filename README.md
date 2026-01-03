@@ -20,58 +20,63 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ### 💻 Programming
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
 </p>
 <p>
-  Python &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript
+  <strong>Python</strong> &nbsp;|&nbsp; <strong>JavaScript</strong>
 </p>
 
 ---
 
-### 📊 Data Analysis & EDA
+### 📊 Data Analysis & Exploratory Data Analysis
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" />
 </p>
 <p>
-  Pandas &nbsp;&nbsp;|&nbsp;&nbsp; NumPy &nbsp;&nbsp;|&nbsp;&nbsp; Matplotlib
+  <strong>Pandas</strong> &nbsp;|&nbsp; <strong>NumPy</strong> &nbsp;|&nbsp; <strong>Matplotlib</strong>
 </p>
 
 ---
 
 ### 🤖 Machine Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" />
 </p>
 <p>
-  scikit-learn <br/>
-  <sub>Supervised • Unsupervised • Feature Engineering • Model Evaluation</sub>
+  <strong>scikit-learn</strong><br/>
+  <sub>Supervised Learning · Unsupervised Learning · Feature Engineering · Model Evaluation</sub>
 </p>
 
 ---
 
 ### 🧠 Deep Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="36" height="36" />
 </p>
 <p>
-  PyTorch &nbsp;&nbsp;|&nbsp;&nbsp; TensorFlow &nbsp;&nbsp;|&nbsp;&nbsp; Keras <br/>
-  <sub>Neural Networks • CNNs • RNNs • LSTMs • Hyperparameter Tuning</sub>
+  <strong>PyTorch</strong> &nbsp;|&nbsp; <strong>TensorFlow</strong> &nbsp;|&nbsp; <strong>Keras</strong><br/>
+  <sub>Neural Networks · CNNs · RNNs · LSTMs · Hyperparameter Tuning</sub>
 </p>
 
 ---
 
 ### ☁️ Cloud (Foundational)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" />
 </p>
 <p>
-  AWS <br/>
-  <sub>EC2 • S3 • RDS • VPC • IAM • Lambda • CloudWatch</sub>
+  <strong>Amazon Web Services (AWS)</strong><br/>
+  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · CloudWatch</sub>
 </p>
 
 ---
