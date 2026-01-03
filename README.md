@@ -28,7 +28,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   Python &nbsp;|&nbsp; JavaScript
 </p>
 
----
+
 
 ### 📊 Data Analysis & Exploratory Data Analysis
 <p align="left">
@@ -45,10 +45,10 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   NumPy &nbsp;|&nbsp;
   Matplotlib &nbsp;|&nbsp;
   Seaborn<br/>
-  <sub>Data Cleaning · Data Preprocessing · Exploratory Data Analysis</sub>
+  
 </p>
 
----
+
 
 ### Machine Learning
 <p align="left">
@@ -56,10 +56,10 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 </p>
 <p>
   scikit-learn<br/>
-  <sub>Supervised Learning · Unsupervised Learning · Feature Engineering · Model Evaluation</sub>
+  
 </p>
 
----
+
 
 ### Deep Learning
 <p align="left">
@@ -73,10 +73,10 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   PyTorch &nbsp;|&nbsp;
   TensorFlow &nbsp;|&nbsp;
   Keras<br/>
-  <sub>Neural Networks · CNNs · RNNs · LSTMs · Hyperparameter Tuning</sub>
+  
 </p>
 
----
+
 
 ### ☁️ Cloud (Foundational)
 <p align="left">
@@ -84,7 +84,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 </p>
 <p>
   Amazon Web Services (AWS)<br/>
-  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · Auto Scaling · CloudWatch</sub>
+  
 </p>
 
 
