@@ -9,7 +9,7 @@ methodological clarity, reproducibility, and explicit reasoning, rather than ad-
 
 
 
-## Research Interests
+## Research-Engineering Interests
 - Design and evaluation of end-to-end machine learning pipelines
 - Deep learning methods for classification and detection problems
 - Exploratory data analysis and feature construction for real-world datasets
@@ -18,7 +18,7 @@ methodological clarity, reproducibility, and explicit reasoning, rather than ad-
 
 
 
-## Technical Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" />
@@ -56,7 +56,7 @@ methodological clarity, reproducibility, and explicit reasoning, rather than ad-
 
 
 
-## Work Experience
+## Experience
 #### Machine Learning Intern — Edreamz Technologies  
 Working on applied machine learning problems in an e-commerce setting, including
 customer analytics and forecasting tasks. Responsibilities include translating
