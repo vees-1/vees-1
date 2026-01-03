@@ -99,29 +99,24 @@ Repositories emphasize:
 
 ## Contact
 
-## Contact
-
-## Contact
-
 <p align="left">
   <a href="mailto:vineetvchanna@gmail.com" title="Email">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
       width="32"
       height="32"
-      style="fill:#D14836;"
     />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vineet-channa/" title="LinkedIn">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       width="32"
       height="32"
-      style="fill:#0A66C2;"
     />
   </a>
 </p>
+
 
 
 
