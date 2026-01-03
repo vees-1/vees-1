@@ -1,108 +1,84 @@
 # Heyyyyyy 👋
 
----
 
-Computer Science student working on machine learning and deep learning systems, with a focus on
-data understanding, feature engineering, and principled model evaluation.
+I am a Computer Science student working on machine learning and deep learning systems, with an emphasis on
+data-centric problem formulation, feature representation, and principled model evaluation.
 
-This GitHub documents applied ML work, experiments, and implementations, with an emphasis on
-methodological clarity, reproducibility, and explicit reasoning over ad-hoc optimization.
+This GitHub serves as a record of applied ML work, experiments, and implementations, focusing on
+methodological clarity, reproducibility, and explicit reasoning, rather than ad-hoc optimization or performance-driven shortcuts.
 
----
 
-## Research & Engineering Interests
-- Machine learning pipelines and evaluation methodology
-- Deep learning for classification and detection tasks
-- Exploratory data analysis and feature construction
-- Multimodal learning (audio, vision, structured data)
-- Foundational cloud concepts for ML systems
 
----
+## Research Interests
+- Design and evaluation of end-to-end machine learning pipelines
+- Deep learning methods for classification and detection problems
+- Exploratory data analysis and feature construction for real-world datasets
+- Multimodal learning across audio, vision, and structured data
+- Foundational cloud concepts relevant to scalable ML systems
 
-## 🛠 Technical Stack
 
-### Programming
+
+## Technical Stack
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
-</p>
-<p>Python · JavaScript</p>
-
----
-
-### Data Analysis
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="36" height="36" />
-</p>
-<p>Pandas · NumPy · Matplotlib · Seaborn</p>
-
----
-
-### Machine Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" />
-</p>
-<p>
-  scikit-learn<br/>
-  <sub>Supervised learning · Unsupervised learning · Feature engineering · Model evaluation</sub>
-</p>
-
----
-
-### Deep Learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="36" height="36" />
-</p>
-<p>
-  PyTorch · TensorFlow · Keras<br/>
-  <sub>Neural networks · CNNs · RNNs · LSTMs · Hyperparameter tuning</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <!-- Seaborn: official logo asset -->
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="34" height="34" />
+  &nbsp;&nbsp;
+  <!-- AWS: official AWS icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="34" />
+  &nbsp;&nbsp;
 </p>
 
----
 
-### Cloud (Foundational)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" />
-</p>
-<p>
-  AWS<br/>
-  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · CloudWatch</sub>
-</p>
 
----
 
-## Experience
+## Work Experience
 #### Machine Learning Intern — Edreamz Technologies  
-Focused on applied ML problems in an e-commerce context, including customer analytics,
-forecasting, and translating business requirements into ML formulations.
+Working on applied machine learning problems in an e-commerce setting, including
+customer analytics and forecasting tasks. Responsibilities include translating
+business objectives into well-defined ML problem statements and evaluating models
+under real-world data constraints.
 
----
+
 
 ## Projects
 Repositories emphasize:
-- Problem formulation from raw data
+- Careful problem formulation starting from raw, imperfect data
 - Baseline-first modeling and controlled experimentation
-- Transparent evaluation and documented assumptions
+- Transparent evaluation, documented assumptions, and explicit trade-offs
 
----
+
 
 ## Contact
 
 <p align="left">
   <a href="mailto:vineetvchanna@gmail.com" title="Email">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg"
+      src="https://cdn.simpleicons.org/gmail/D14836" 
       width="32"
       height="32"
     />
