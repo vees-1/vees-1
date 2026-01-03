@@ -100,12 +100,12 @@ Repositories emphasize:
 ## Contact
 
 <p align="left">
-  <a href="mailto:vineetvchanna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:vineetvchanna@gmail.com" aria-label="Email">
+    <img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vineet-channa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vineet-channa/" aria-label="LinkedIn">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
