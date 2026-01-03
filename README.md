@@ -18,35 +18,61 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ## 🛠 Tech Stack
 
-### Programming
+### 💻 Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
 </p>
+<p>
+  Python &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript
+</p>
 
-### Data Analysis & EDA
+---
+
+### 📊 Data Analysis & EDA
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48"/>
 </p>
+<p>
+  Pandas &nbsp;&nbsp;|&nbsp;&nbsp; NumPy &nbsp;&nbsp;|&nbsp;&nbsp; Matplotlib
+</p>
 
-### Machine Learning
+---
+
+### 🤖 Machine Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
 </p>
+<p>
+  scikit-learn <br/>
+  <sub>Supervised • Unsupervised • Feature Engineering • Model Evaluation</sub>
+</p>
 
-### Deep Learning
+---
+
+### 🧠 Deep Learning
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48"/>
 </p>
+<p>
+  PyTorch &nbsp;&nbsp;|&nbsp;&nbsp; TensorFlow &nbsp;&nbsp;|&nbsp;&nbsp; Keras <br/>
+  <sub>Neural Networks • CNNs • RNNs • LSTMs • Hyperparameter Tuning</sub>
+</p>
 
-### Cloud
+---
+
+### ☁️ Cloud (Foundational)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/>
 </p>
-
+<p>
+  AWS <br/>
+  <sub>EC2 • S3 • RDS • VPC • IAM • Lambda • CloudWatch</sub>
+</p>
 
 ---
 
