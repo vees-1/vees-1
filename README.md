@@ -1,36 +1,38 @@
 # Heyyyyyy 👋
 
 
-I’m a Computer Science student working on **machine learning and deep learning systems** with an emphasis on  
-**data understanding, feature engineering, and proper evaluation**.
+# Vineet Channa
 
-This GitHub is a workspace for projects where I apply ML concepts to real-world datasets and document design decisions along the way.
+Computer Science student working on machine learning and deep learning systems, with a focus on
+data understanding, feature engineering, and principled model evaluation.
 
+This GitHub documents applied ML work, experiments, and implementations, with an emphasis on
+methodological clarity, reproducibility, and explicit reasoning over ad-hoc optimization.
 
+---
 
-## Focus Areas
-- Machine learning pipelines and model evaluation  
-- Deep learning for classification and detection  
-- Exploratory data analysis and feature engineering  
-- Cloud-aware ML workflows (foundational)
+## Research & Engineering Interests
+- Machine learning pipelines and evaluation methodology
+- Deep learning for classification and detection tasks
+- Exploratory data analysis and feature construction
+- Multimodal learning (audio, vision, structured data)
+- Foundational cloud concepts for ML systems
 
+---
 
+## 🛠 Technical Stack
 
-## 🛠 Tech Stack
-
-### 💻 Programming
+### Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
 </p>
-<p>
-  Python &nbsp;|&nbsp; JavaScript
-</p>
+<p>Python · JavaScript</p>
 
+---
 
-
-### 📊 Data Analysis & Exploratory Data Analysis
+### Data Analysis
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
@@ -40,15 +42,9 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="36" height="36" />
 </p>
-<p>
-  Pandas &nbsp;|&nbsp;
-  NumPy &nbsp;|&nbsp;
-  Matplotlib &nbsp;|&nbsp;
-  Seaborn<br/>
-  
-</p>
+<p>Pandas · NumPy · Matplotlib · Seaborn</p>
 
-
+---
 
 ### Machine Learning
 <p align="left">
@@ -56,10 +52,10 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 </p>
 <p>
   scikit-learn<br/>
-  
+  <sub>Supervised learning · Unsupervised learning · Feature engineering · Model evaluation</sub>
 </p>
 
-
+---
 
 ### Deep Learning
 <p align="left">
@@ -70,37 +66,38 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="36" height="36" />
 </p>
 <p>
-  PyTorch &nbsp;|&nbsp;
-  TensorFlow &nbsp;|&nbsp;
-  Keras<br/>
-  
+  PyTorch · TensorFlow · Keras<br/>
+  <sub>Neural networks · CNNs · RNNs · LSTMs · Hyperparameter tuning</sub>
 </p>
 
+---
 
-
-### ☁️ Cloud (Foundational)
+### Cloud (Foundational)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" />
 </p>
 <p>
-  Amazon Web Services (AWS)<br/>
-  
+  AWS<br/>
+  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · CloudWatch</sub>
 </p>
 
+---
 
+## Experience
+Machine Learning Intern — Edreamz Technologies  
+Focused on applied ML problems in an e-commerce context, including customer analytics,
+forecasting, and translating business requirements into ML formulations.
 
+---
 
 ## Projects
-Repositories here focus on:
-- Careful data exploration  
-- Thoughtful baseline modeling  
-- Clear evaluation and iteration  
+Repositories emphasize:
+- Problem formulation from raw data
+- Baseline-first modeling and controlled experimentation
+- Transparent evaluation and documented assumptions
 
-Each project includes concise documentation and reproducible workflows.
-
-
+---
 
 ## Contact
-- **Email:** vineetvchanna@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/vineet-channa/
-
+Email: vineetvchanna@gmail.com  
+LinkedIn: https://www.linkedin.com/in/vineet-channa/
