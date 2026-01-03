@@ -101,6 +101,8 @@ Repositories emphasize:
 
 ## Contact
 
+## Contact
+
 <p align="left">
   <a href="mailto:vineetvchanna@gmail.com" title="Email">
     <img
@@ -120,5 +122,6 @@ Repositories emphasize:
     />
   </a>
 </p>
+
 
 
