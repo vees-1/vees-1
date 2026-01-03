@@ -6,19 +6,19 @@ I’m a Computer Science student working on **machine learning and deep learning
 
 This GitHub is a workspace for projects where I apply ML concepts to real-world datasets and document design decisions along the way.
 
----
 
-## 🧠 Focus Areas
+
+##Focus Areas
 - Machine learning pipelines and model evaluation  
 - Deep learning for classification and detection  
 - Exploratory data analysis and feature engineering  
 - Cloud-aware ML workflows (foundational)
 
----
 
-## 🛠 Tech Stack
 
-### 💻 Programming
+##Tech Stack
+
+###Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ---
 
-### 📊 Data Analysis & Exploratory Data Analysis
+###Data Analysis & Exploratory Data Analysis
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ---
 
-### 🤖 Machine Learning
+###Machine Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" />
 </p>
@@ -61,7 +61,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ---
 
-### 🧠 Deep Learning
+###Deep Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" />
   &nbsp;&nbsp;&nbsp;
@@ -78,7 +78,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ---
 
-### ☁️ Cloud (Foundational)
+###Cloud (Foundational)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" />
 </p>
@@ -90,7 +90,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 
 ---
 
-## 📂 Projects
+##Projects
 Repositories here focus on:
 - Careful data exploration  
 - Thoughtful baseline modeling  
@@ -100,7 +100,7 @@ Each project includes concise documentation and reproducible workflows.
 
 ---
 
-## 📫 Contact
+##Contact
 - **Email:** vineetvchanna@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/vineet-channa/
 
