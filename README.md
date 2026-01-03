@@ -21,7 +21,7 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 ### 💻 Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
 </p>
 <p>
@@ -33,13 +33,19 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 ### 📊 Data Analysis & Exploratory Data Analysis
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="36" height="36" />
 </p>
 <p>
-  <strong>Pandas</strong> &nbsp;|&nbsp; <strong>NumPy</strong> &nbsp;|&nbsp; <strong>Matplotlib</strong>
+  <strong>Pandas</strong> &nbsp;|&nbsp;
+  <strong>NumPy</strong> &nbsp;|&nbsp;
+  <strong>Matplotlib</strong> &nbsp;|&nbsp;
+  <strong>Seaborn</strong><br/>
+  <sub>Data Cleaning · Data Preprocessing · Exploratory Data Analysis</sub>
 </p>
 
 ---
@@ -58,13 +64,15 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 ### 🧠 Deep Learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="36" height="36" />
 </p>
 <p>
-  <strong>PyTorch</strong> &nbsp;|&nbsp; <strong>TensorFlow</strong> &nbsp;|&nbsp; <strong>Keras</strong><br/>
+  <strong>PyTorch</strong> &nbsp;|&nbsp;
+  <strong>TensorFlow</strong> &nbsp;|&nbsp;
+  <strong>Keras</strong><br/>
   <sub>Neural Networks · CNNs · RNNs · LSTMs · Hyperparameter Tuning</sub>
 </p>
 
@@ -76,8 +84,9 @@ This GitHub is a workspace for projects where I apply ML concepts to real-world 
 </p>
 <p>
   <strong>Amazon Web Services (AWS)</strong><br/>
-  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · CloudWatch</sub>
+  <sub>EC2 · S3 · RDS · VPC · IAM · Lambda · Auto Scaling · CloudWatch</sub>
 </p>
+
 
 ---
 
