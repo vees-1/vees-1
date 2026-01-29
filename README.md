@@ -1,73 +1,103 @@
-# 🔹 Heyyyyyy
-## 🔹 Computer Science Student | Machine Learning | Deep Learning Systems
+# 👋 Heyyy, I’m Vineet
+---
+### 🧠 Computer Science Student  
+### 🤖 Machine Learning • Deep Learning Systems • Applied Research
 
-I am a Computer Science student working on **machine learning and deep learning systems**, with an emphasis on  
-**data-centric problem formulation**, **feature representation**, and **principled model evaluation**.
+I am a **Computer Science student** focused on building and understanding  
+**machine learning and deep learning systems** from first principles.
 
-This GitHub serves as a record of **applied ML work, experiments, and implementations**, focusing on  
-**methodological clarity, reproducibility, and explicit reasoning**—rather than ad-hoc optimization or performance-driven shortcuts.
+My interests center around:
+
+- **Data-centric problem formulation**
+- **Feature representation and inductive bias**
+- **Model evaluation under real-world constraints**
+
+This GitHub is not a highlight reel of accuracy scores.  
+It is a **research logbook**—a place for experiments, failures, baselines, replications, and clear reasoning.
+
+---
+
+## 🧭 What You’ll Find Here
+
+- End-to-end ML pipelines starting from **raw, imperfect data**
+- **Baseline-first modeling** before architectural complexity
+- Explicit assumptions, trade-offs, and evaluation decisions
+- Replications and re-implementations for **deep understanding**
+- Code written for **clarity, reproducibility, and learning**
+
+---
+
+## 🔬 Research & Engineering Interests
+
+- Design and evaluation of **machine learning systems**
+- Deep learning for **classification, detection, and representation learning**
+- **Exploratory data analysis** and principled feature construction
+- **Multimodal learning** (vision, audio, structured data)
+- Foundational **cloud & infrastructure concepts** for scalable ML
+
+---
+
+## 🧰 Tech Stack
+
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Data & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning & Deep Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🛠 Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🧑‍💼 Experience
+
+### Machine Learning Intern — **Edreamz Technologies**
+
+Applied machine learning in an **e-commerce environment**, working on:
+
+- Customer analytics and forecasting problems
+- Translating business goals into **well-scoped ML objectives**
+- Model evaluation under **non-ideal, production-like data**
+- Emphasis on **robustness, interpretability, and validation**, not just metrics
+
+---
+
+## 📁 Projects Philosophy
+
+Projects in this GitHub emphasize:
+
+- Clear **problem statements** before modeling
+- Strong baselines before deep architectures
+- Reproducibility and readable experiments
+- Honest discussion of limitations and failure cases
+
+---
+
+## 📬 Connect With Me
+
+<a href="mailto:vineetvchanna@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vineet-channa/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Channa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
-
-## 🔹 Research & Engineering Interests
-
-- Design and evaluation of **end-to-end machine learning pipelines**
-- Deep learning methods for **classification and detection**
-- **Exploratory data analysis** and feature construction for real-world datasets
-- **Multimodal learning** across audio, vision, and structured data
-- Foundational **cloud concepts** relevant to scalable ML systems
-
-
-
-## 🔹 Tech Stack
-
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-
-### 🔹 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-### 🔹 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square)
-
-### 🔹 Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-
-
-
-## 🔹 Experience
-
-### 🔹 Machine Learning Intern — **Edreamz Technologies**
-Working on applied machine learning problems in an **e-commerce setting**, including  
-customer analytics and forecasting tasks.
-
-Responsibilities include:
-- Translating business objectives into **well-defined ML problem statements**
-- Evaluating models under **real-world data constraints**
-- Emphasizing **interpretability, robustness, and validation**, not just metrics
-
-
-
-## 🔹 Projects
-
-Repositories emphasize:
-
-- Careful **problem formulation** starting from raw, imperfect data
-- **Baseline-first modeling** and controlled experimentation
-- Transparent evaluation, documented assumptions, and explicit trade-offs
-
-
-## 🔹 Contact
-
-[![Email](https://img.shields.io/badge/Email-gray?style=flat-square&logo=gmail)](mailto:vineetvchanna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vineet-channa/)
+---
+> *“The goal is not to train models faster —  
+> it’s to understand **why** they work, **when** they fail, and **what** they assume.”*
