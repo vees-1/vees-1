@@ -1,7 +1,7 @@
 # 👋 Heyyy, I’m Vineet
 ---
 ### 🧠 Computer Science Student  
-### 🤖 Machine Learning • Deep Learning Systems • Applied Research
+### 🧠 Machine Learning • Deep Learning Systems • Applied Research
 
 I am a **Computer Science student** focused on building and understanding  
 **machine learning and deep learning systems** from first principles.
@@ -63,7 +63,7 @@ It is a **research logbook**—a place for experiments, failures, baselines, rep
 
 ---
 
-## 🧑‍💼 Experience
+## 📁 Experience
 
 ### Machine Learning Intern — **Edreamz Technologies**
 
