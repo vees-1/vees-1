@@ -1,39 +1,22 @@
-# 👋 Heyyy, I’m Vineet
----
-### 🧠 Computer Science Student  
-### 🧠 Machine Learning • Deep Learning Systems • Applied Research
+# 👋 Hi, I’m Vineet
 
-I am a **Computer Science student** focused on building and understanding  
-**machine learning and deep learning systems** from first principles.
+🎓 **Computer Science Student**  
+🤖 **Machine Learning • Deep Learning Systems • Applied Research**
 
-My interests center around:
+I focus on building and understanding **machine learning systems from first principles** —  
+from messy data to evaluation, trade-offs, and failure modes.
 
-- **Data-centric problem formulation**
-- **Feature representation and inductive bias**
-- **Model evaluation under real-world constraints**
-
-This GitHub is not a highlight reel of accuracy scores.  
-It is a **research logbook**—a place for experiments, failures, baselines, replications, and clear reasoning.
+This GitHub is a **research logbook**, not a highlight reel.  
+Expect experiments, baselines, replications, and careful reasoning.
 
 ---
 
-## 🧭 What You’ll Find Here
+## 🧭 Focus
 
-- End-to-end ML pipelines starting from **raw, imperfect data**
-- **Baseline-first modeling** before architectural complexity
-- Explicit assumptions, trade-offs, and evaluation decisions
-- Replications and re-implementations for **deep understanding**
-- Code written for **clarity, reproducibility, and learning**
-
----
-
-## 🔬 Research & Engineering Interests
-
-- Design and evaluation of **machine learning systems**
-- Deep learning for **classification, detection, and representation learning**
-- **Exploratory data analysis** and principled feature construction
-- **Multimodal learning** (vision, audio, structured data)
-- Foundational **cloud & infrastructure concepts** for scalable ML
+- Data-centric problem formulation  
+- Feature representation & inductive bias  
+- Model evaluation under real-world constraints  
+- Replication for deep understanding  
 
 ---
 
@@ -63,39 +46,36 @@ It is a **research logbook**—a place for experiments, failures, baselines, rep
 
 ---
 
-## 📁 Experience
+## 🏢 Experience
 
-### Machine Learning Intern — **Edreamz Technologies**
+**Machine Learning Intern — Edreamz Technologies**
 
-Applied machine learning in an **e-commerce environment**, working on:
-
-- Customer analytics and forecasting problems
-- Translating business goals into **well-scoped ML objectives**
-- Model evaluation under **non-ideal, production-like data**
-- Emphasis on **robustness, interpretability, and validation**, not just metrics
+- Applied ML in an e-commerce environment  
+- Customer analytics & forecasting  
+- Translating business goals into ML objectives  
+- Emphasis on robustness, validation & interpretability  
 
 ---
 
-## 📁 Projects Philosophy
+## 🧩 Project Philosophy
 
-Projects in this GitHub emphasize:
-
-- Clear **problem statements** before modeling
-- Strong baselines before deep architectures
-- Reproducibility and readable experiments
-- Honest discussion of limitations and failure cases
+- Clear problem statements before modeling  
+- Strong baselines before deep architectures  
+- Reproducibility over shortcuts  
+- Honest discussion of limitations  
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <a href="mailto:vineetvchanna@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vineet-channa/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vineet%20Channa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 
 ---
