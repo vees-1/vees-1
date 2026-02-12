@@ -50,17 +50,7 @@ Tools & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🏢 Experience
-
-Machine Learning Intern — Edreamz Technologies
-
-- Applied ML in an e-commerce environment  
-- Customer analytics & forecasting  
-- Translating business goals into ML objectives  
-- Emphasis on robustness, validation & interpretability  
+ 
 
 ---
 
@@ -85,6 +75,7 @@ Machine Learning Intern — Edreamz Technologies
 
 
 
----
+## 
+
 > *“The goal is not to train models faster —  
-> it’s to understand **why** they work, **when** they fail, and **what** they assume.”*
+> it’s to understand why they work, when they fail, and what they assume.”*
