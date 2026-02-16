@@ -5,26 +5,23 @@
 🎓 Machine Learning • Deep Learning • Applied Research
 
 
-I focus on building and understanding *machine learning systems from first principles* —  
-from messy data to evaluation, trade-offs, and failure modes.
+I’m learning to build and analyze machine learning systems from first principles.
 
-This GitHub is a *research logbook*, not a highlight reel.  
-Expect experiments, baselines, replications, and careful reasoning.
+This repository documents experiments, replications, and notes as I work through ideas.
 
 ---
 
-## Focus
+Focus:
 
-- Data-centric problem formulation  
-- Feature representation & inductive bias  
-- Model evaluation under real-world constraints  
-- Replication for deep understanding  
+- Framing problems clearly before choosing models  
+- Building simple baselines before complex solutions  
+- Understanding where models fail and why  
 
 ---
 
-## 🧰 Tech Stack
+Tech Stack:
 
-Languages
+Languages:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
@@ -32,7 +29,7 @@ Languages
 
 
 
-Data & Visualization
+Data & Visualization:
 
 NumPy • Pandas • Matplotlib • Seaborn
 
@@ -41,13 +38,13 @@ NumPy • Pandas • Matplotlib • Seaborn
 </p>
 
 
-Machine Learning & Deep Learning
+Machine Learning & Deep Learning:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-Tools & Infrastructure
+Tools & Infrastructure:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
@@ -56,23 +53,19 @@ Tools & Infrastructure
 
 ---
 
-## 🧩 Project Philosophy
+Project Philosophy:
 
-- Clear problem statements before modeling  
-- Strong baselines before deep architectures  
-- Reproducibility over shortcuts  
-- Honest discussion of limitations  
+- Insight before implementation  
+- Simplicity before sophistication  
+- Careful experimentation over guesswork  
+- Learning over quick results
 
 ---
 
-## 📬 Connect
+📬 Connect:
 
   <a href="https://www.linkedin.com/in/vineet-channa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
 
-## 
-
-> *“The goal is not to train models faster —  
-> it’s to understand why they work, when they fail, and what they assume.”*
