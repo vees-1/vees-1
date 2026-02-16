@@ -1,4 +1,4 @@
-# Hiii!!!, I’m Vineet
+🎓 Hiii!!!, I’m Vineet
 
 🎓 Computer Science Student
 
