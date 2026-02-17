@@ -1,4 +1,4 @@
-🎓 Hiii!!!, I’m Vineet
+# Hiii!!!, I’m Vineet
 
 🎓 Computer Science Student
 
@@ -11,7 +11,7 @@ This repository documents experiments, replications, and notes as I work through
 
 ---
 
-Focus:
+## 💎 Focus
 
 - Framing problems clearly before choosing models  
 - Building simple baselines before complex solutions  
@@ -19,7 +19,7 @@ Focus:
 
 ---
 
-Tech Stack:
+## 📚 Tech Stack
 
 Languages:
 
@@ -53,7 +53,7 @@ Tools & Infrastructure:
 
 ---
 
-Project Philosophy:
+## 🔥 Project Philosophy
 
 - Insight before implementation  
 - Simplicity before sophistication  
@@ -62,7 +62,7 @@ Project Philosophy:
 
 ---
 
-📬 Connect:
+## 📬 Connect
 
   <a href="https://www.linkedin.com/in/vineet-channa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
