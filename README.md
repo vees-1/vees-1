@@ -10,7 +10,7 @@ This GitHub serves as my research logbook — experiments, benchmarks, and deplo
 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,sqlite,python,pytorch,opencv,sklearn,linux,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,sqlite,python,pytorch,opencv,sklearn,linux,aws,docker" />
 </p>
 
 
