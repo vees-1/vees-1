@@ -10,7 +10,7 @@ This GitHub serves as my research logbook — experiments, benchmarks, and deplo
 Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,sqlite,python,pytorch,opencv,sklearn,linux,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,sqlite,python,pytorch,sklearn,opencv,aws,github,git,docker" />
 </p>
 
 
@@ -19,7 +19,9 @@ Tech Stack:
 Connect:
 
   <a href="https://www.linkedin.com/in/vineet-channa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+
+
 
 
