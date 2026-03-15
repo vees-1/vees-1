@@ -2,7 +2,7 @@
 
 *CS student building and analyzing ML systems from first principles.*
 
-*This GitHub serves as my research logbook — experiments, benchmarks, and deployment studies.*
+*This GitHub serves as my research logbook — experiments, benchmarks, nd deployment studies.*
 
 ---
 
