@@ -1,13 +1,13 @@
-# *Hi!!!!, I’m Vineet*
+# Hi!!!!, I’m Vineet
 
 *CS student building and analyzing ML systems from first principles.*
 
-*This GitHub serves as my research logbook — experiments, benchmarks, nd deployment studies.*
+*This GitHub serves as my research logbook — experiments, benchmarks n deployment studies.*
 
 ---
 
 
-## *Tech Stack*
+## Tech Stack
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:40px"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## *Connect*
+## Connect
 
   <a href="https://www.linkedin.com/in/vineet-channa/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
