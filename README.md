@@ -1,4 +1,4 @@
-# Hi!!!!, I’m Vineet
+# Hi!!!, I’m Vineet
 
 *CS student building and analyzing ML systems from first principles.*
 
@@ -27,15 +27,5 @@
 
 
 </p>
-
----
-
-## Connect
-
-  <a href="https://www.linkedin.com/in/vineet-channa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-
-
 
 
