@@ -1,13 +1,13 @@
-# Hi!!!, I’m Vineet
+## Hi there 👋
 
-*CS student building and analyzing ML systems from first principles.*
+CS student building and analyzing ML systems from first principles.
 
-*This GitHub serves as my research logbook — experiments, benchmarks n deployment studies.*
+This GitHub serves as my research logbook — experiments, benchmarks n deployment studies.
 
 ---
 
 
-## Tech Stack
+### Tech Stack
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="margin-right:40px"/>
