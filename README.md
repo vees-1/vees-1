@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there
 
 CS student building and analyzing ML systems from first principles.
 
